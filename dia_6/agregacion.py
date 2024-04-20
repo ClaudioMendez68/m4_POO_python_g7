@@ -6,7 +6,7 @@ class Material():
         
         
 class Pelota():
-    def __init__(self, tamanio: int, color: str, material: str) -> None:
+    def __init__(self, tamanio: int, color: str, material: Material) -> None:
         self.tamanio = tamanio
         self.color = color
         # La pelota tiene un material (Clase Material)
