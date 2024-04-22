@@ -36,3 +36,4 @@ class Venta():
     @property
     def detalle(self):
         return self.__detalle
+    
