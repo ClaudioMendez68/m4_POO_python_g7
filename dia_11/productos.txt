@@ -1,0 +1,16 @@
+{"nombre": "Almendras vegan", "precio": 1262.67}
+{"nombre": "Spaghetti con jarabe de agave", "precio": 1363.57}
+{"nombre": "Manzana gluten free", "precio": 1095.82}
+{"nombre": "Ezekiel con aceite de coco", "precio": 1109.56}
+{"nombre": "Harina de garbanzo con aceite de coco", "precio": 1435.72}
+{"nombre": "Calabaza gluten free", "precio": 763.95}
+{"nombre": "Pepino con jarabe de agave", "precio": 1462.65}
+{"nombre": "Nueces integral", "precio": 218.22}
+{"nombre": "Pera bolsa grande", "precio": 1636.40}
+{"nombre": "Habas con jarabe de agave", "precio": 275.19}
+{"nombre": "Pepino orgánico", "precio": 1567.10}
+{"nombre": "Harina de quinoa veggie", "precio": 791.66}
+{"nombre": "Cereales con jarabe de agave", "precio": 364.38}
+{"nombre": "Chayotes de baño", "precio": 1371.67}
+{"nombre": "Quinoa gluten free", "precio": 1786.17}
+{"nombre": "Pera veggie", "precio": 480.10}
